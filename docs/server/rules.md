@@ -737,6 +737,21 @@ Reprezintă acțiunea în care nu îți este frică că propria ta viață ar pu
 - 3 SAS vs oricâți, <strong style="color: red">NU</strong>, nu se aplică NF
 </div>
 
+#### <a id="2.18.2"></a><span style="color: #0088CC">2.18.2 Division - No Fear</span>
+<div class="rule-box rule-yellow">
+    <div class="title">Exemple:</div>
+
+- Pentru grupurile de mai mult de 2 membri Division nu se aplică regula de No Fear.
+- Un membru Division aflat singur va rola frica dacă este prins de cel puțin 4 jucători.
+- De menționat este faptul că această comparație numerică se face în momentul începerii RP-ului și nu se recalculează pe parcursul acestuia. (Ex. Dacă te afli într-un conflict activ și pici 1 din cei 2 Division, ultimului Division nu i se va aplica regula de No Fear, dar dacă acesta ramane singur și ulterior este prins i se va aplica regula.)
+
+<span style="color: lightgreen">Situații:</span>
+
+- 1 Division vs 3, <strong style="color: red">NU</strong>, nu se aplică NF
+- 1 Division vs 4, <strong style="color: green">DA</strong>, se aplică NF
+- 2 Division vs oricâți, <strong style="color: red">NU</strong>, nu se aplică NF
+</div>
+
 
 <div class="rule-box rule-sanction">
     <div class="title">Sancțiuni:</div>
