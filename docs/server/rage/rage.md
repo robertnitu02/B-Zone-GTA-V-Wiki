@@ -29,7 +29,7 @@ După ce ați descarcat jocul va trebui sa vă conectați contul de **Steam**/**
 
 Serverul rulează pe platforma **RAGE Multiplayer**, iar singura metodă prin care te poți conecta la server este aceea de a utiliza launcher-ul oficial.
 Pentru a descărca launcher-ul accesați pagina oficială ([rage.mp](https://rage.mp/)) și apăsați pe butonul de **Download** (**Descarcă**).
-Dacă întâmpini probleme la conectare pe server îți recomandăm să consulți [pagina de probleme](/server/rage/probleme_rage).
+Dacă întâmpini probleme la conectare pe server îți recomandăm să consulți [pagina de probleme](/server/rage/probleme_generale).
 
 ## Utilizare Launcher
 
