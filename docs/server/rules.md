@@ -1363,15 +1363,15 @@ Trebuie să informați jucătorii cu care aveți un roleplay că solicitați de 
         <tbody>
             <tr>
                 <td>1</td>
-                <td>20 minute Jail + Kick</td>
+                <td>30 minute Jail + Kick</td>
             </tr>
             <tr>
                 <td>2</td>
-                <td>40 minute Jail + Kick</td>
+                <td>60 minute Jail + Kick</td>
             </tr>
             <tr>
                 <td>3+</td>
-                <td>60 minute Jail + Kick</td>
+                <td>Warn + Kick</td>
             </tr>
         </tbody>
     </table>
@@ -1387,6 +1387,14 @@ Trebuie să informați jucătorii cu care aveți un roleplay că solicitați de 
             <tr>
                 <td>1</td>
                 <td>Kick</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Kick</td>
+            </tr>
+            <tr>
+                <td>3+</td>
+                <td>Kick + Warn</td>
             </tr>
         </tbody>
     </table>
