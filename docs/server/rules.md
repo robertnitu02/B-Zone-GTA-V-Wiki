@@ -402,7 +402,7 @@ Reprezintă orice încercare de a îngreuna roleplay-ul unde sunt implicate mai 
     </table>
 </div>
 
-### <a id="2.10"></a><span style="color: #0088CC">2.10 MetaGaming (MG)</span>
+### <a id="2.10"></a><span style="color: #0088CC">2.10 Meta Gaming (MG)</span>
 
 Reprezintă utilizarea informațiilor OOC (Out Of Character) în scopuri IC (In Character) pentru a obține avantaje în roleplay.
 
@@ -438,11 +438,11 @@ Reprezintă utilizarea informațiilor OOC (Out Of Character) în scopuri IC (In 
         <tbody>
             <tr>
                 <td>1</td>
-                <td>Ban 1-3 zile în functie de gravitate </td>
+                <td>Ban 1-7 zile în functie de gravitate</td>
             </tr>
             <tr>
                 <td>2+</td>
-                <td>Ban 7-14 zile în functie de gravitate </td>
+                <td>Ban 7-60 zile în functie de gravitate</td>
             </tr>
         </tbody>
     </table>
@@ -492,7 +492,7 @@ Reprezintă oferirea informațiilor IC în OOC.
 </div>
 
 
-### <a id="2.13"></a><span style="color: #0088CC">2.13 PowerGaming (PG)</span>
+### <a id="2.13"></a><span style="color: #0088CC">2.13 Power Gaming (PG)</span>
 
 Reprezintă acea situație de roleplay în care ai puteri supranaturale sau atunci când nu acorzi șanse persoanelor implicate la roleplay-ul pe care l-ai creat.
 
@@ -510,6 +510,7 @@ Reprezintă acea situație de roleplay în care ai puteri supranaturale sau atun
 - Jefuirea, omorârea sau interacțiunea cu persoanele care dorm în case
 - Este interzisă utilizarea unui voice changer fără o mască adecvată sau a unei măști care nu dispune de spațiul necesar pentru integrarea unui dispozitiv de modificare a vocii.
 - Folosirea tazerului prin geamul sau texturile unei mașini.
+- Efectuezi o aterizare forțată cu elicopterul, cobori din el și începi să te bați, fără să fii afectat de impactul cu solul.
 </div>
 
 <div class="rule-box rule-sanction">
@@ -532,7 +533,7 @@ Reprezintă acea situație de roleplay în care ai puteri supranaturale sau atun
             </tr>
             <tr>
                 <td>3+</td>
-                <td>Ban 1-3 zile în functie de gravitate </td>
+                <td>Ban 1-7 zile în functie de gravitate </td>
             </tr>
         </tbody>
     </table>
@@ -608,7 +609,12 @@ Reprezintă călcarea intenționată a unui jucător sau al unui grup de jucăto
 
 <div class="rule-box rule-yellow">
     <div class="title">Exemplu:</div>
-Te afli în deplasarea de la un punct la altul și observi un grup de persoane care stau pe trotuar, decizi să intri cu mașina în ei și îți continui drumul.
+- Te afli în deplasarea de la un punct la altul și observi un grup de persoane care stau pe trotuar, decizi să intri cu mașina în ei și îți continui drumul.
+</div>
+
+<div class="rule-box rule-green">
+    <div class="title">Mențiuni:</div>
+- VDM-ul făcut cu un eclicopter/avion se sacționează cu <strong>Ban 14 zile</strong>. Dacă faceți forțate cu elicopterele și ele duc la VDM (voit sau nu) va fi sacționat ca atare.
 </div>
 
 <div class="rule-box rule-sanction">
@@ -1620,6 +1626,7 @@ Reprezintă acțiunea prin care îți folosești un vehicul în așa manieră î
 - Să mergi cu un autovehicul cu cel puțin o roată spartă la peste 70 km/h
 - Să mergi pe contra-sens în mod repetat sau pe autostradă
 - Să mergi cu o mașină cu gardă joasă pe drumuri accidentate
+- A coborî în picaj cu elicopterul, având motorul oprit
 </div>
 
 <div class="rule-box rule-sanction">
@@ -1685,20 +1692,20 @@ Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
 - helipaduri special amenajate de pe clădiri
 </div>
 <div class="rule-box rule-red">
-<div class="title">Este STRICT INTERZIS să aterizați cu un elicopter pe:</div>
+<div class="title">Este STRICT INTERZIS:</div>
 
-- insula Cayo sau Maldive (cu excepția helipad-ului de pe aeroport)
-- locuri neamenajate
-- case indiferent de zonă
-- blocurile din Los Santos
-- străzi, parcari
+- să aterizați cu un elicopter pe insula Cayo sau Maldive (cu excepția helipad-ului de pe aeroport)
+- să aterizați cu un elicopter pe locuri neamenajate
+- să aterizați cu un elicopter pe case indiferent de zonă
+- să aterizați cu un elicopter pe blocurile din Los Santos
+- să aterizați cu un elicopter pe străzi, parcari
 - să faci acțiuni **TERORISTE** cu elicopterul.<br>
 - stați sau să lăsați un elicoper abandonat pe un garaj de elicoptere (blocând parcarea).
 </div>
 
 <div class="rule-box rule-yellow">
 <div class="title">Exceptii:</div>
-- elicopterele de Medici și Poliție pot fi folosite în cadrul acțiunilor
+- elicopterele de Medici și Poliție pot fi folosite în cadrul acțiunilor. <strong>În continuare NU va este permis să faceți acțiuni teroriste</strong>
 - rămâi fără benzină desupra la BNN și aterizezi să alimentezi
 - mori de foame/sete și trebuie să aterizezi de urgență ca să îți cumperi mâncare sau apă
 - în cazul în care este o razie în desfasurare pe insula Cayo sau Maldive, mafioții au voie sa aterizeze oriunde pe insulă 
