@@ -1705,9 +1705,9 @@ Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
 
 <div class="rule-box rule-yellow">
 <div class="title">Exceptii:</div>
-- elicopterele de Medici și Poliție pot fi folosite în cadrul acțiunilor. <strong>În continuare NU va este permis să faceți acțiuni teroriste</strong>
-- rămâi fără benzină desupra la BNN și aterizezi să alimentezi
-- mori de foame/sete și trebuie să aterizezi de urgență ca să îți cumperi mâncare sau apă
+- elicopterele de Medici și Poliție pot fi folosite în cadrul acțiunilor. <strong>În continuare NU va este permis să faceți acțiuni teroriste</strong><br>
+- rămâi fără benzină desupra la BNN și aterizezi să alimentezi<br>
+- mori de foame/sete și trebuie să aterizezi de urgență ca să îți cumperi mâncare sau apă<br>
 - în cazul în care este o razie în desfasurare pe insula Cayo sau Maldive, mafioții au voie sa aterizeze oriunde pe insulă 
 </div>
 
