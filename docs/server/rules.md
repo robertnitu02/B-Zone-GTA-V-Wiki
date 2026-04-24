@@ -1901,7 +1901,7 @@ Se aplică sancțiunea de la <a href="#5.4">#5.4 Condus NON-RP</a>
 ### <a id="7.1"></a><span style="color: #0088CC">7.1 Furt vehicule</span>
 Nu este permis furtul unui vehicul din zone publice, respectiv jefuirea de bunuri din acesta, pentru că în aceste zone există camere de luat vederi. 
 
-- Este permis să furați o mașină din afara zonelor publice dacă respectați regula <a href="5.4">#5.4 Ninja-Jack</a> la orice oră, **DOAR** mașina.<br>
+- Este permis să furați o mașină din afara zonelor publice dacă respectați regula <a href="#5.3">#5.3 Ninja-Jack</a> la orice oră, **DOAR** mașina.<br>
 - Este permis să furați bunuri dintr-o mașină dacă respectați regulile din <a href="./rules/zones#Z1">Regulament Zone</a> și regula <a href="#7.3">#7.3 Ilegalități în zonă publică</a>.
 
 Vă este permis să furați o mașină de poliție/medici doar în cazuri extreme ca o ultimă cale de scăpare urmând ca să o abandonați cat mai repede posibil.
